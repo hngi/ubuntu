@@ -7,3 +7,4 @@ DevOps task 3
 - Mike Perry Yeboah Attara (@mikeattara) - Team Lead
 - Emmanuel Oaikhenan (@emma_odia)
 - Chukwuemeka Christian (@Mekus)  -Member
+- Ogomebunnem Daniel Mordi (@Og)  -Member
